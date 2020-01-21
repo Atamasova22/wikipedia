@@ -1,0 +1,2 @@
+Dolane->Pamphlebialen: 11 path: ['Dolane', 'Mural', 'Agriculture', 'Organism', 'Species', 'National_Center_for_Biotechnology_Information', 'The_Global_Lepidoptera_Names_Index', 'Lepidoptera', 'Geometridae', 'Geometrinae', 'Hemitheini', 'Pamphlebia']
+Pamphlebia->Dolanelen: 6 path: ['Pamphlebia', 'Insecta', 'German_language', 'Slovenia', 'Drava_Statistical_Region', 'Municipality_of_Cirkulane', 'Dolane']
